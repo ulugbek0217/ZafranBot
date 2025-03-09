@@ -18,7 +18,6 @@ class MainHandler
     public function back(Nutgram $bot)
     {
         $bot->message()->delete();
-        $bot->answerCallbackQuery();
         
         $this->start($bot);
     }
@@ -48,7 +47,5 @@ class MainHandler
         $price = number_format($json['price'], 0, ',', ' ');
 
         sendPhoto($bot, $image, "<b>{$json['name']}</b>\nPrice: {$price} UZS", 'html', $this->back_key());
-        
-        $bot->answerCallbackQuery();
     }
 }
