@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Turkish Dishes",
+        "subcategories": [
+            {
+                "name": "Starter",
+                "products": [
+                    {
+                        "name": "Lentil Soup",
+                        "price": 39000,
+                        "img": "img/turkish/starter/lentil_soup.jpeg"
+                    },
+                    {
+                        "name": "Ezogelin Soup",
+                        "price": 39000,
+                        "img": "img/turkish/starter/ezogelin_soup.jpeg"
+                    },
+                    {
+                        "name": "Menemen",
+                        "price": 59000,
+                        "img": "img/turkish/starter/menemen.jpeg"
+                    },
+                    {
+                        "name": "Fried Eggs",
+                        "price": 39000,
+                        "img": "img/turkish/starter/fried_eggs.jpeg"
+                    },
+                    {
+                        "name": "Fried Eggs with Meat",
+                        "price": 179000,
+                        "img": "img/turkish/starter/fried_eggs_with_meat.jpeg"
+                    },
+                    {
+                        "name": "Wrapped Leaves",
+                        "price": 39000,
+                        "img": "img/turkish/starter/wrapped_leaves.jpeg"
+                    }
+                ]
+            },
+            {
+                "name": "Salads",
+                "products": [
+                    {
+                        "name": "Avocado Salad",
+                        "price": 99000,
+                        "img": "img/turkish/salads/Avocado_salad.jpeg"
+                    },
+                    {
+                        "name": "Tuna Salad",
+                        "price": 105000,
+                        "img": "img/turkish/salads/Tuna_salad.jpeg"
+                    },
+                    {
+                        "name": "Caesar Salad",
+                        "price": 89000,
+                        "img": "img/turkish/salads/caesar_salad.jpeg"
+                    },
+                    {
+                        "name": "Garden Salad",
+                        "price": 59000,
+                        "img": "img/turkish/salads/Garden_salad.jpeg"
+                    },
+                    {
+                        "name": "Tulum Cheese Salad",
+                        "price": 89000,
+                        "img": "img/turkish/salads/Tulum_cheese_salad.jpeg"
+                    }
+                ]
+            },
+            {
+                "name": "Barbecue",
+                "products": [
+                    {
+                        "name": "Lamb Chops",
+                        "price": 159000,
+                        "img": "img/turkish/barbecue/Lamb_Chops.jpeg"
+                    },
+                    {
+                        "name": "Chicken Pirzola",
+                        "price": 89000,
+                        "img": "img/turkish/barbecue/Chicken_Pirzola.jpeg"
+                    },
+                    {
+                        "name": "Butcher's Meatballs",
+                        "price": 89000,
+                        "img": "img/turkish/barbecue/Butchers_Meatballs.jpeg"
+                    },
+                    {
+                        "name": "Spicy Cuttlets",
+                        "price": 89000,
+                        "img": "img/turkish/barbecue/Spicy_Cuttlets.jpeg"
+                    },
+                    {
+                        "name": "Beyti kebab",
+                        "price": 115000,
+                        "img": "img/turkish/barbecue/Beyti_kebab.jpeg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Uzbek dishes",
+        "subcategories": [
+            {
+                "name": "Main dishes",
+                "products": [
+                    {
+                        "name": "Bayram Pilaf",
+                        "price": 79000,
+                        "img": "img/uzbek/asosiy/Bayram_pilaf.jpg"
+                    },
+                    {
+                        "name": "Beshbarmoq",
+                        "price": 129000,
+                        "img": "img/uzbek/asosiy/Beshbarmoq.jpg"
+                    },
+                    {
+                        "name": "Dumgaza",
+                        "price": 196000,
+                        "img": "img/uzbek/asosiy/Dumgaza.jpg"
+                    },
+                    {
+                        "name": "Caravan jiz",
+                        "price": 121000,
+                        "img": "img/uzbek/asosiy/Caravan_jiz.jpg"
+                    },
+                    {
+                        "name": "Kazan-kabob",
+                        "price": 168000,
+                        "img": "img/uzbek/asosiy/Kazan-kabob.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+]
