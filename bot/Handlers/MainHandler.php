@@ -1,5 +1,4 @@
 <?php
-
 namespace Bot\Handlers;
 
 use Bot\Keyboards\Keyboard;
@@ -18,7 +17,7 @@ class MainHandler
     public function back(Nutgram $bot)
     {
         $bot->message()->delete();
-        
+
         $this->start($bot);
     }
 
