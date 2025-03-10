@@ -356,6 +356,76 @@
                         "img": "img/italian/pizza/Bolognese pizza NEW.webp"
                     }
                 ]
+            },
+            {
+                "name": "Burger",
+                "products": [
+                    {
+                        "name": "Hot dog",
+                        "price": 89000,
+                        "img": "img/italian/burger/Hot dog.webp"
+                    },
+                    {
+                        "name": "Hamburger",
+                        "price": 86500,
+                        "img": "img/italian/burger/Hamburger.webp"
+                    },
+                    {
+                        "name": "Cheeseburger",
+                        "price": 92000,
+                        "img": "img/italian/burger/Cheeseburger.webp"
+                    },
+                    {
+                        "name": "Bacon burger",
+                        "price": 94000,
+                        "img": "img/italian/burger/Bacon burger.webp"
+                    },
+                    {
+                        "name": "Chicken burger",
+                        "price": 84000,
+                        "img": "img/italian/burger/Chicken burger.webp"
+                    },
+                    {
+                        "name": "Chicken nuggets",
+                        "price": 44000,
+                        "img": "img/italian/burger/Chicken nuggets.webp"
+                    }
+                ]
+            },
+            {
+                "name": "Salad",
+                "products": [
+                    {
+                        "name": "Crispy salmon salad",
+                        "price": 91500,
+                        "img": "img/italian/salad/Crispy salmon salad.webp"
+                    },
+                    {
+                        "name": "Green shrimp salad",
+                        "price": 131600,
+                        "img": "img/italian/salad/Green shrimp salad.webp"
+                    },
+                    {
+                        "name": "Veal salad in ginger sauce",
+                        "price": 92000,
+                        "img": "img/italian/salad/Veal salad in ginger sauce.webp"
+                    },
+                    {
+                        "name": "Eggplant salad with tomato salsa dressing",
+                        "price": 68000,
+                        "img": "img/italian/salad/Eggplant salad with tomato salsa dressing.webp"
+                    },
+                    {
+                        "name": "Hummus",
+                        "price": 66200,
+                        "img": "img/italian/salad/Hummus.webp"
+                    },
+                    {
+                        "name": "Lightly salted salmon salad with Ricotta cheese and oranges",
+                        "price": 118000,
+                        "img": "img/italian/salad/Lightly salted salmon salad with Ricotta cheese and oranges.webp"
+                    }
+                ]
             }
         ]
     },
@@ -394,6 +464,71 @@
                         "name": "Smoked salmon nigiri",
                         "price": 23000,
                         "img": "img/japanese/sushi/smoked_salmon_nigiri.webp"
+                    }
+                ]
+            },
+            {
+                "name": "Hot dishes",
+                "products":[
+                    {
+                        "name": "Chicken roll with cheese",
+                        "price": 46000,
+                        "img": "img/japanese/hot/chicken_roll.webp"
+                    },
+                    {
+                        "name":"Mapo tofu",
+                        "price": 51000,
+                        "img": "img/japanese/hot/mapo_tofu.webp"
+                    },
+                    {
+                        "name": "Roast beef",
+                        "price": 71000,
+                        "img": "img/japanese/hot/roast_beef.webp"
+                    },
+                    {
+                        "name": "Tori Don",
+                        "price": 51000,
+                        "img": "img/japanese/hot/tori_don.webp"
+                    },
+                    {
+                        "name": "Beef in creamy sauce",
+                        "price": 85000,
+                        "img": "img/japanese/hot/beef_in_creemy_sauce.webp"
+                    },
+                    {
+                        "name": "Thai Chicken",
+                        "price": 47000,
+                        "img": "img/japanese/hot/thai_chicken.webp"
+                    }
+                ]
+            },
+            {
+                "name": "Snacks",
+                "products": [
+                    {
+                        "name": "Tori sando sandwich",
+                        "price": 29000,
+                        "img": "img/japanese/snack/Tori sando sandwich.webp"
+                    },
+                    {
+                        "name": "Potato curry samosa",
+                        "price": 29000,
+                        "img": "img/japanese/snack/Potato curry samosa.webp"
+                    },
+                    {
+                        "name": "Tortilla with sous-vide chicken",
+                        "price": 33000,
+                        "img": "img/japanese/snack/Tortilla with sous-vide chicken.webp"
+                    },
+                    {
+                        "name": "Hinchiao",
+                        "price": 35000,
+                        "img": "img/japanese/snack/Hinchiao.webp"
+                    },
+                    {
+                        "name": "Roti with chicken",
+                        "price": 45000,
+                        "img": "img/japanese/snack/Roti with chicken.webp"
                     }
                 ]
             }
