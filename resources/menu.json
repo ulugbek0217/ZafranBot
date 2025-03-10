@@ -96,6 +96,41 @@
                         "img": "img/turkish/barbecue/Beyti_kebab.jpeg"
                     }
                 ]
+            },
+            {
+                "name": "Drinks",
+                "products": [
+                    {
+                        "name": "Turkish tea small teapot",
+                        "price": 39000,
+                        "img": "img/turkish/drinks/Turkish tea small teapot.jpg"
+                    },
+                    {
+                        "name": "Turkish tea large teapot",
+                        "price": 49000,
+                        "img": "img/turkish/drinks/Turkish tea large teapot.jpeg"
+                    },
+                    {
+                        "name": "Raspberry tea",
+                        "price": 65000,
+                        "img": "img/turkish/drinks/Raspberry tea.jpeg"
+                    },
+                    {
+                        "name": "Moroccan Tea",
+                        "price": 70000,
+                        "img": "img/turkish/drinks/Moroccan Tea.jpeg"
+                    },
+                    {
+                        "name": "Ginger tea",
+                        "price": 65000,
+                        "img": "img/turkish/drinks/Ginger tea.jpeg"
+                    },
+                    {
+                        "name": "Fruity tea",
+                        "price": 65000,
+                        "img": "img/turkish/drinks/Fruity tea.jpeg"
+                    }
+                ]
             }
         ]
     },
@@ -129,6 +164,236 @@
                         "name": "Kazan-kabob",
                         "price": 168000,
                         "img": "img/uzbek/asosiy/Kazan-kabob.jpg"
+                    },
+                    {
+                        "name": "Pumpkin manti",
+                        "price": 8400,
+                        "img": "img/uzbek/asosiy/Pumpkin_manti.jpg"
+                    },
+                    {
+                        "name": "Khinkali with meat",
+                        "price": 21000,
+                        "img": "img/uzbek/asosiy/Khinkali_with_meat.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Soups",
+                "products": [
+                    {
+                        "name": "Qaynatma shorpa",
+                        "price": 68000,
+                        "img": "img/uzbek/soup/Qaynatma shorpa.jpg"
+                    },
+                    {
+                        "name": "Uzbek-style lagman",
+                        "price": 57000,
+                        "img": "img/uzbek/soup/Uzbek-style lagman.jpg"
+                    },
+                    {
+                        "name": "Lagman in Uighur",
+                        "price": 69000,
+                        "img": "img/uzbek/soup/Lagman in Uighur.jpg"
+                    },
+                    {
+                        "name": "Mastava",
+                        "price": 41000,
+                        "img": "img/uzbek/soup/Mastava.jpg"
+                    },
+                    {
+                        "name": "Mashkhurda",
+                        "price": 41000,
+                        "img": "img/uzbek/soup/Mashkhurda.jpg"
+                    },
+                    {
+                        "name": "Mohora",
+                        "price": 54000,
+                        "img": "img/uzbek/soup/Mohora.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Salads",
+                "products": [
+                    {
+                        "name": "Achik chuchuk “Pink Paradise”",
+                        "price": 32000,
+                        "img": "img/uzbek/salad/Achik chuchuk.jpg"
+                    },
+                    {
+                        "name": "Spring salad",
+                        "price": 31000,
+                        "img": "img/uzbek/salad/Spring salad.jpg"
+                    },
+                    {
+                        "name": "Greek salad",
+                        "price": 125000,
+                        "img": "img/uzbek/salad/Greek salad.jpg"
+                    },
+                    {
+                        "name": "Ja-jick",
+                        "price": 31000,
+                        "img": "img/uzbek/salad/ja-Jick.jpg"
+                    },
+                    {
+                        "name": "Georgian salad",
+                        "price": 69000,
+                        "img": "img/uzbek/salad/Georgian salad.jpg"
+                    },
+                    {
+                        "name": "Tuna salad",
+                        "price": 128000,
+                        "img": "img/uzbek/salad/Tuna salad.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Kebabs",
+                "products": [
+                    {
+                        "name": "Kebab with mushrooms",
+                        "price": 42000,
+                        "img": "img/uzbek/kebab/Kebab with mushrooms.jpg"
+                    },
+                    {
+                        "name": "Lamb kebab",
+                        "price":42000,
+                        "img": "img/uzbek/kebab/Lamb kebab.jpg"
+                    },
+                    {
+                        "name": "Beef kebab",
+                        "price": 43000,
+                        "img": "img/uzbek/kebab/Beef kebab.jpg"
+                    },
+                    {
+                        "name": "Barbecue of vegetables",
+                        "price": 49000,
+                        "img": "img/uzbek/kebab/Barbecue of vegetables.jpg"
+                    },
+                    {
+                        "name": "Liver kebab",
+                        "price": 43000,
+                        "img": "img/uzbek/kebab/Liver kebab.jpg"
+                    },
+                    {
+                        "name": "Shish kebab from catfish",
+                        "price": 128000,
+                        "img": "img/uzbek/kebab/Shish kebab from catfish.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Desserts",
+                "products": [
+                    {
+                        "name": "Assorted fruits",
+                        "price": 165000,
+                        "img": "img/uzbek/dessert/Assorted fruits.jpg"
+                    },
+                    {
+                        "name": "Opera",
+                        "price": 30000,
+                        "img": "img/uzbek/dessert/Opera.png"
+                    },
+                    {
+                        "name": "Pakhlava",
+                        "price": 29000,
+                        "img": "img/uzbek/dessert/Pakhlava.png"
+                    },
+                    {
+                        "name": "Classic cheesecake",
+                        "price": 39000,
+                        "img": "img/uzbek/dessert/Classic cheesecake.png"
+                    },
+                    {
+                        "name": "Chocolate cheesecake",
+                        "price": 41000,
+                        "img": "img/uzbek/dessert/Chocolate cheesecake.png"
+                    },
+                    {
+                        "name": "Chocolate cake",
+                        "price": 26000,
+                        "img": "img/uzbek/dessert/Chocolate cake.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Italian dishes",
+        "subcategories":[
+            {
+                "name": "Pizza",
+                "products": [
+                    {
+                        "name": "Roman pizza with bresaola",
+                        "price": 112000,
+                        "img": "img/italian/pizza/Roman pizza with bresaola.webp"
+                    },
+                    {
+                        "name": "Roman salmon pizza",
+                        "price": 152000,
+                        "img": "img/italian/pizza/Roman salmon pizza.webp"
+                    },
+                    {
+                        "name": "Roman turkey pizza",
+                        "price": 90000,
+                        "img": "img/italian/pizza/Roman turkey pizza.webp"
+                    },
+                    {
+                        "name": "Roman tuna pizza",
+                        "price": 96000,
+                        "img": "img/italian/pizza/Roman tuna pizza.webp"
+                    },
+                    {
+                        "name": "Pizza with pesto sauce and mortadella NEW",
+                        "price": 120000,
+                        "img": "img/italian/pizza/Pizza with pesto sauce and mortadella NEW.webp"
+                    },
+                    {
+                        "name": "Bolognese pizza NEW",
+                        "price": 115000,
+                        "img": "img/italian/pizza/Bolognese pizza NEW.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Japanese dishes",
+        "subcategories": [
+            {
+                "name": "Sushi",
+                "products": [
+                    {
+                        "name": "Tobiko nigiri",
+                        "price": 17000,
+                        "img": "img/japanese/sushi/tobiko_nigiri.webp"
+                    },
+                    {
+                        "name": "Tuna nigiri",
+                        "price": 19000,
+                        "img": "img/japanese/sushi/tuna_nigiri.webp"
+                    },
+                    {
+                        "name": "Shrimp nigiri",
+                        "price": 19000,
+                        "img": "img/japanese/sushi/shrimp_nigiri.webp"
+                    },
+                    {
+                        "name": "Allaska salmon",
+                        "price": 19000,
+                        "img": "img/japanese/sushi/allaska_salmon.webp"
+                    },
+                    {
+                        "name": "Salmon nigiri",
+                        "price": 21000,
+                        "img": "img/japanese/sushi/salmon_nigiri.webp"
+                    },
+                    {
+                        "name": "Smoked salmon nigiri",
+                        "price": 23000,
+                        "img": "img/japanese/sushi/smoked_salmon_nigiri.webp"
                     }
                 ]
             }
